@@ -1,0 +1,91 @@
+#1,0.9
+win,0.9
+won,0.9
+$$$,0.9
+sale,0.8
+cash,0.8
+free,0.9
+open,0.9
+deal,0.9
+cheap,0.7
+sales,0.8
+order,0.8
+prize,0.8
+bonus,0.8
+free!,0.9
+trial,0.9
+chance,0.7
+urgent,0.7
+sample,0.8
+credit,0.8
+winner,0.9
+opt in,0.9
+bargain,0.8
+50% off,0.9
+solution,0.7
+discount,0.8
+act now!,0.9
+for only,0.9
+now only,0.9
+for free,0.9
+unlimited,0.8
+subscribe,0.8
+clearance,0.8
+call now!,0.9
+order now,0.9
+risk free,0.9
+free gift,0.9
+100% free,0.9
+guaranteed,0.7
+cash bonus,0.8
+name brand,0.8
+best rates,0.8
+best price,0.8
+apply now!,0.9
+free trial,0.9
+free offer,0.9
+free quote,0.9
+click here,0.9
+buy direct,0.9
+for just $,0.9
+free sample,0.8
+order today,0.8
+click below,0.9
+limited time,0.8
+satisfaction,0.8
+free preview,0.9
+lowest price,0.9
+why pay more?,0.9
+join millions,0.9
+increase sales,0.8
+offer expires0,0.9
+100% satisfied,0.9
+save big money,0.9
+buy	as seen on,0.9
+giving it away,0.9
+fantastic deal,0.9
+congratulations,0.6
+get started now,0.9
+free membership,0.9
+outstanding value,0.8
+don’t hesitate!,0.9
+free consultation,0.9
+special promotion,0.9
+once in a lifetime,0.9
+sign up free today,0.9
+you’re a winner!,0.9
+no questions asked,0.9
+great offer	instant,0.9
+increase your sales,0.9
+marketing solutions,0.9
+while supplies last,0.9
+success	cards accepted,0.8
+you have been selected,0.9
+full refund	affordable,0.9
+satisfaction guaranteed,0.9
+all new	amazing	certified,0.9
+what are you waiting for?,0.9
+giving away	no obligation,0.9
+no strings attached	offer,0.9
+compare	drastically reduced,0.9
+one hundred percent guaranteed,0.9
